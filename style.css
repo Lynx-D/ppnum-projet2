@@ -374,10 +374,10 @@ form button {
 }
 
 .icon-scroll {
-    width: 40px;
-    height: 70px;
+    width: 30px;
+    height: 50px;
     margin-left: -20px;
-    top: 91%;
+    top: 96%;
     margin-top: -35px;
     box-shadow: inset 0 0 0 1px #fff;
     border-radius: 25px;
@@ -387,10 +387,10 @@ form button {
 }
 
 .icon-scroll.scrolled {
-    width: 40px;
-    height: 70px;
+    width: 30px;
+    height: 50px;
     margin-left: -20px;
-    top: 91%;
+    top: 96%;
     margin-top: -35px;
     box-shadow: inset 0 0 0 1px #fff;
     border-radius: 25px;
@@ -417,7 +417,7 @@ form button {
   }
   100% {
     opacity: 0;
-    transform: translateY(46px)
+    transform: translateY(35px)
   }
 }
 
