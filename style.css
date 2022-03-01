@@ -63,7 +63,7 @@ nav.navbar.scrolled {
 }
 
 .navbar .nav-item:not(:last-child) {
-    margin-right: 1.5rem;
+    margin-right: 1.05rem;
 }
 
 .navbar-toggler {
